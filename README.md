@@ -33,9 +33,8 @@
 
 ## 🛠️ Tech Stack
 
-|        Component       |     Technology       |
-|------------------------|----------------------|
-
+|        Component     |     Technology       |
+|----------------------|----------------------|
 | **Object Detection** | YOLOv8 (Ultralytics) |
 | **Web Interface**    | Streamlit            |
 | **Image Processing** | OpenCV, Pillow       |
@@ -113,12 +112,11 @@ maxUploadSize = 100  # in MB
 
 ### Model Selection
 
-| Model | Size | Speed | Accuracy |
-|-------|------|-------|----------|
-
-| YOLOv8n | 6 MB | ⚡⚡⚡ | ★★★ |
-| YOLOv8s | 22 MB | ⚡⚡ | ★★★★ |
-| YOLOv8m | 52 MB | ⚡ | ★★★★★ |
+| Model | Size | Speed  | Accuracy |
+|-------|------|--------|----------|
+|YOLOv8n| 6 MB |⚡⚡⚡  | ***      |  
+|YOLOv8s| 22 MB|⚡⚡    |  ****    |
+|YOLOv8m| 52 MB|  ⚡    | *****    |
 
 ## ⚠️ Cloud Limitations
 
@@ -141,4 +139,4 @@ maxUploadSize = 100  # in MB
 
 - [Project Link](https://github.com/javascriptsali/smart-vision-ai)
 
-## ⭐ If you find this project useful, consider giving it a star!**
+## ⭐ **If you find this project useful, consider giving it a star!**
