@@ -1,0 +1,37 @@
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+data/uploads/*
+data/outputs/*
+!data/uploads/.gitkeep
+!data/outputs/.gitkeep
+*.mp4
+*.avi
+*.mov
+.DS_Store
+
+# Data and Models
+data/
+models/
+*.pkl
+*.h5
+
+# Environment
+.env
+.env.local
+
+# Logs
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
