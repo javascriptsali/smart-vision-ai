@@ -1,7 +1,7 @@
-#ultralytics
+ultralytics
 streamlit
 opencv-python
 pillow
 plotly
 pandas
-numpy Add your project dependencies here
+numpy
