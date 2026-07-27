@@ -2,7 +2,7 @@
 
 ## 🌟 Live Demo
 
-[Live Demo](https://smart-vision-ai-uaay8nva3t9jk6een9eczx.streamlit.app/)
+## [Live Demo](https://smart-vision-ai-uaay8nva3t9jk6een9eczx.streamlit.app/)
 
 - [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 - [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -135,7 +135,7 @@ maxUploadSize = 100  # in MB
 
 ## 📧 Contact
 
-- [Gmail](javascriptsali@gmail.com)
+- [Github Profile](https://github.com/javascriptsali)
 
 - [Project Link](https://github.com/javascriptsali/smart-vision-ai)
 
