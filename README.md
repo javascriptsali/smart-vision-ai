@@ -1,5 +1,9 @@
 # 👁️ Smart Vision AI
 
+## 🌟 Live Demo
+
+[Live Demo](https://ai-rag-chatbot-xdqy3xmreuckd5rbuexjhl.streamlit.app/)
+
 - [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 - [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 - [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/)
@@ -29,21 +33,21 @@
 
 ## 🛠️ Tech Stack
 
-| Component | Technology |
-|-----------|------------|
+|        Component       |     Technology       |
+|------------------------|----------------------|
 
 | **Object Detection** | YOLOv8 (Ultralytics) |
-| **Web Interface** | Streamlit |
-| **Image Processing** | OpenCV, Pillow |
-| **Analytics** | Plotly, Pandas |
-| **Deployment** | Streamlit Cloud |
+| **Web Interface**    | Streamlit            |
+| **Image Processing** | OpenCV, Pillow       |
+| **Analytics**        | Plotly, Pandas       |
+| **Deployment**       | Streamlit Cloud      |
 
 ## 🚀 Quick Start
 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/smart-vision-ai.git
+git clone https://github.com/javascriptsali/smart-vision-ai.git
 cd smart-vision-ai
 ```
 
@@ -67,9 +71,7 @@ pip install -r requirements.txt
 streamlit run app/streamlit_app.py
 ```
 
-```text
-The app will open automatically at http://localhost:8501
-```
+- The app will open automatically at [http://localhost:8501]
 
 ## 📁 Project Structure
 
@@ -100,34 +102,23 @@ smart-vision-ai/
 
 ## ⚙️ Configuration
 
-- Upload Size Limit
-- Edit .streamlit/config.toml:
+### Upload Size Limit
 
-```bash
+Edit `.streamlit/config.toml`:
+
+```toml
 [server]
 maxUploadSize = 100  # in MB
 ```
 
 ### Model Selection
 
-```table
-Model
-Size
-Speed
-Accuracy
-YOLOv8n
-6 MB
-⚡⚡⚡
-★★★
-YOLOv8s
-22 MB
-⚡⚡
-★★★★
-YOLOv8m
-52 MB
-⚡
-★★★★★
-```
+| Model | Size | Speed | Accuracy |
+|-------|------|-------|----------|
+
+| YOLOv8n | 6 MB | ⚡⚡⚡ | ★★★ |
+| YOLOv8s | 22 MB | ⚡⚡ | ★★★★ |
+| YOLOv8m | 52 MB | ⚡ | ★★★★★ |
 
 ## ⚠️ Cloud Limitations
 
@@ -146,8 +137,8 @@ YOLOv8m
 
 ## 📧 Contact
 
-- Gmail[javascriptsali@gmail.com]
+- [Gmail](javascriptsali@gmail.com)
 
-- Project Link[https://github.com/javascriptsali/smart-vision-ai]
+- [Project Link](https://github.com/javascriptsali/smart-vision-ai)
 
-## ⭐ If you find this project useful, consider giving it a star
+## ⭐ If you find this project useful, consider giving it a star!**
